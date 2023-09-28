@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695244656 source:d:\brian\universidad\sem estructura datos\colaestatica\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
